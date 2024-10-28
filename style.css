@@ -25,7 +25,6 @@
     border-radius: 10px;
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1),5px 5px 15px rgba(0, 0, 0, 0.2);
     background: transparent;
-    /* font-size: 25px; */
     color: #fff;
     cursor: pointer;
     margin: 10px;
@@ -41,7 +40,7 @@ form .display input {
     box-shadow: none;
     flex: 1;
 }
-form input.equal{
+form input#equal{
     width: 145px;
 }
 input[type="button"]{
